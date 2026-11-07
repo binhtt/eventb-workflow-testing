@@ -1,0 +1,5 @@
+method,eligible_trials,budget4,budget16
+Nominal,550,0,0
+Random,550,480,546
+Model-derived,550,485,550
+Conservative sleep-set DFS,550,269,269
