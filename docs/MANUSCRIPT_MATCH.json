@@ -1,0 +1,16 @@
+{
+  "supplied_manuscript": "IEEE_ACCESS_Agent.pdf",
+  "sha256": "856428caae1ed80693bd8c97e627ef50f9c7b27819791901fccf83669f40900a",
+  "checked_date": "2026-11-07",
+  "matches": {
+    "proof_obligations": 24,
+    "finite_states": 2127,
+    "finite_operation_attempts": 49776,
+    "reference_replays": 9600,
+    "mutant_replays": 86400,
+    "qualified_trials_per_method": 550,
+    "model_detected_budget16": 550,
+    "random_detected_budget16": 546
+  },
+  "manuscript_pdf_included": false
+}
